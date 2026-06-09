@@ -7,7 +7,7 @@ Files included:
 - assets/bgw-logo.png
 
 Default site password:
-BGW2026
+bingbong
 
 To change the password:
 Open script.js and edit this line:
